@@ -7,5 +7,3 @@
 - ### Pursuing B.Sc. Degree in Programming and Data Science from IIT Madras.
 
 
-
-### Project 1: Housing Pricing Calculator
